@@ -1,6 +1,8 @@
 # Bipedal Walker
 Assignment of the course Introduction to Intelligent and Autonomous Systems (3rd year, 1st semester)
 
+![vídeo](video/Customizing_OpenAI_Gym_Environments_and_Implementing_Reinforcement_Learning_Agents_with_Stable_Baselines.mp4)
+
 ## A little context
 ### Overview
 The aim of this project was to introduce specific changes or customizations to the environment Bipedal Walker, from box2D, and train a reinforcement learning agent using the Stable Baselines library.
